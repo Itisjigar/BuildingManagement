@@ -2,7 +2,6 @@
 
 - [Table of Contents](#table-of-contents)
 - [Building Management System](#building-management-system)
-- [Video example](#video-example)
 - [Dashboard](#dashboard)
 - [Hardware setup](#hardware-setup)
   - [Esp & Current sensor](#esp--current-sensor)
@@ -25,17 +24,6 @@
 This project seeks to demonstrate the use of MQTT protocol and MERN stack for building an IoT Building Management System for commercial usage, where parameters such as building occupancy, energy demand, andenergy consumption are measured and displayed on an online database and dashboard.
 
 A more detailed description of the project can be found [here](https://github.com/peterokwara/BuildingManagement/blob/master/Project%20Report.pdf).
-
-# Video example
-
-A video of the project working (hardware)
-
-<a href="https://www.youtube.com/watch?v=Yh3uR8R79lM" target="_blank"><p align="center"><img src="./assets/system.jpg" alt="board setup of the building management system" height="600"/></p></a>
-
-A video of the project working (software)
-
-<a href="https://youtu.be/3eJK0t_gp44
-" target="_blank"><p align="center"><img src="./assets/dashboard.png" alt="video of the dashboard" height="500"/></p></a>
 
 # Dashboard
 
