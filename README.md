@@ -35,64 +35,6 @@ You can access the dashboard after you sign up [here](https://thawing-scrubland-
 
 Circuit design
 
-<p  align="center">
-  <img src="./assets/esp-current-sensor/esp-current-sensor.png" width="600" />
-</p>
-
-Board design and the final look
-
-<p align="center">
-  <img src="./assets/esp-current-sensor/esp-current-sensor-board.png" width="300" />
-  <img src="./assets/esp-current-sensor/esp-current-sensor-final.jpg" width="300" /> 
-</p>
-
-## Esp & Dht sensor
-
-Circuit design
-
-<p align="center">
-  <img src="./assets/esp-dht11-sensor/esp-dht-sensor.png" width="600" />
-</p>
-
-Board design and the final look
-
-<p align="center">
-  <img src="./assets/esp-dht11-sensor/esp-dht-sensor-board.png" width="300" />
-  <img src="./assets/esp-dht11-sensor/esp-dht-sensor-final.jpg" width="300" /> 
-</p>
-
-## Esp & Motion sensor
-
-Circuit design
-
-<p align="center">
-  <img src="./assets/esp-motion-sensor/esp-motion-sensor.png" width="600" />
-</p>
-
-Board design and the final look
-
-<p align="center">
-  <img src="./assets/esp-motion-sensor/esp-motion-sensor-board.png" width="300" />
-  <img src="./assets/esp-motion-sensor/esp-motion-sensor-final.jpg" width="300" /> 
-</p>
-
-## Esp & Relay
-
-Circuit design
-
-<p align="center">
-  <img src="./assets/esp-relay/esp-relay.png" width="600" />
-</p>
-
-Board design and the final look
-
-<p align="center">
-  <img src="./assets/esp-relay/esp-relay-board.png" width="300" />
-  <img src="./assets/esp-relay/esp-relay-final.jpg" width="300" /> 
-</p>
-
-# Installation
-
 ## Esp
 
 Installing in an ESP8266-01 and NodeMCU involves pushing the python files into the device whether it's via a usb to ttl or just a usb cable. This can be done using the command
